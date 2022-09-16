@@ -135,6 +135,20 @@ https://md-ikbal-hasan.github.io/portfolio/
 <br/>
 
 
+### this is colapse syntax
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
+
 
 
 
