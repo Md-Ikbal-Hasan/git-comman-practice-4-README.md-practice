@@ -1,2 +1,4 @@
-This is test
-This line is added form remote repo
+I born in 1999 January 15.
+I have done my SSC in 2015.
+I have completed  my HSC in 2017.
+I have completed my BSc in 2022.
