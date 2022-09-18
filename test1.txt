@@ -1,7 +1,8 @@
-I born in 1999 January 15.
+I born in 1999 January 25.
 I have done my SSC in 2015.
 I have completed  my HSC in 2017.
 I have completed my BSc in 2022.
 I have started my full stack learning from 2022.
 I will join at IT Company as soon as possible.
-new line added from main branch
+New line is added in feature branch
+
